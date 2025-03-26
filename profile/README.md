@@ -109,7 +109,7 @@ We operate under a hub-and-spoke model with:
 
 ## 🌍 External Resources
 
-- [IMAIC Charter (PDF)](#)
+- [IMAIC Charter (PDF)](https://www.notion.so/1c2de7e20cf580619529c71acca8ac51?v=1c2de7e20cf5803a9bbd000c5b1b2f0b)
 - [Consortium Data Platform](#)
 - [Training Materials & Webinars](#)
 - [Contact the Hub](mailto:fabio@gocmarineprogram.org)
